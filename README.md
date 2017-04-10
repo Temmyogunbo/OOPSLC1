@@ -1,1 +1,2 @@
 # OOPSLC1
+I have modeled vehicle as a parent class and car as a subclass of vehicle. I gave it attributes and method that are common across all vehicles. I used the call() method and Object.create() method to define inheritance.Tthe methods and attributes are members of the object. This is encapsulation which is also synonymous to data abstraction. Polymorphism is supported because I could define motorcycle as another class, and also truck as different type of class with each having attributes and methods unique to them. I have incuded a test case for my code.
